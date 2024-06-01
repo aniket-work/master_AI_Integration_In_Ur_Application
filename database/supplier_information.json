@@ -1,0 +1,20 @@
+[
+  {
+    "supplier_id": "SUPP001",
+    "name": "Acme Supplies",
+    "address": "123 Main St, Anytown, USA",
+    "contact": {
+      "email": "sales@acmesupplies.com",
+      "phone": "+1 555-1234"
+    }
+  },
+  {
+    "supplier_id": "SUPP002",
+    "name": "Global Manufacturers Inc.",
+    "address": "456 Industrial Rd, Bigcity, Canada",
+    "contact": {
+      "email": "info@globalmfg.com",
+      "phone": "+1 555-5678"
+    }
+  }
+]

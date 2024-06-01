@@ -1,0 +1,16 @@
+{
+  "regions": [
+    {
+      "region": "North America",
+      "delivery_time": "3-5 business days"
+    },
+    {
+      "region": "Europe",
+      "delivery_time": "5-7 business days"
+    },
+    {
+      "region": "Asia",
+      "delivery_time": "7-10 business days"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "shipment_id": "ABC123",
+    "status": "In Transit",
+    "estimated_delivery_date": "2023-06-15"
+  },
+  {
+    "shipment_id": "XYZ456",
+    "status": "Delivered",
+    "delivery_date": "2023-06-10"
+  },
+  {
+    "shipment_id": "PQR789",
+    "status": "Delayed",
+    "estimated_delivery_date": "2023-06-20"
+  }
+]

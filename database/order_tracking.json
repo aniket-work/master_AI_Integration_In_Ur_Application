@@ -1,0 +1,18 @@
+[
+  {
+    "order_id": "ORDER001",
+    "status": "Processing",
+    "expected_shipment_date": "2023-06-12"
+  },
+  {
+    "order_id": "ORDER002",
+    "status": "Shipped",
+    "shipment_id": "ABC123",
+    "expected_delivery_date": "2023-06-15"
+  },
+  {
+    "order_id": "ORDER003",
+    "status": "Delivered",
+    "delivery_date": "2023-06-10"
+  }
+]

@@ -1,0 +1,7 @@
+{
+    "shipment status": "shipment_status.json",
+    "inventory level": "inventory_levels.json",
+    "delivery time": "delivery_times.json",
+    "order tracking": "order_tracking.json",
+    "supplier information": "supplier_information.json"
+}
